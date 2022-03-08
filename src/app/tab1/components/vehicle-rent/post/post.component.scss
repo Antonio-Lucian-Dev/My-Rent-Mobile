@@ -1,0 +1,28 @@
+.post {
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.vehicle-image {
+  width: 150px;
+}
+
+.container-information {
+  display: flex;
+  justify-content: center;
+}
+
+.container-post-image {
+  margin-left: 10px;
+}
+
+.container-post-action {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin-right: 10px;
+}
+
+ion-item-divider {
+  width: 80%;
+}

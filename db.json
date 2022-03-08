@@ -1,0 +1,197 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "description": "New car",
+      "pricePerDay": 20,
+      "currencyType": "$",
+      "phoneNumber": "234534",
+      "email": "test@gmail.com",
+      "createdAt": "2022-01-12",
+      "vehicleInfo": {
+        "id": 33,
+        "brand": "Lamborghini",
+        "model": "Urus",
+        "roadTraveler": "234.342",
+        "typeOfRoadTravelled": "KM",
+        "combustibleType": "DIESEL",
+        "fabricationYear": 2019,
+        "fabricationCountry": "America",
+        "numberOfDoor": 5,
+        "color": "white",
+        "vehicleType": "Sport Car",
+        "createdAt": "2022-01-22"
+      },
+      "address": {
+        "id": 333,
+        "country": "Romania",
+        "city": "Bucharest",
+        "postalCode": "0023",
+        "addressInfo": "via fsfd"
+      },
+      "images": [
+        {
+          "id": 98,
+          "value": "./assets/img/urus.png",
+          "createdAt": "2022-01-12"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "description": "New car",
+      "pricePerDay": 20,
+      "currencyType": "$",
+      "phoneNumber": "234534",
+      "email": "test@gmail.com",
+      "createdAt": "2022-01-12",
+      "vehicleInfo": {
+        "id": 331,
+        "brand": "Porsche",
+        "model": "918",
+        "roadTraveler": "234.342",
+        "typeOfRoadTravelled": "KM",
+        "combustibleType": "DIESEL",
+        "fabricationYear": 2019,
+        "fabricationCountry": "America",
+        "numberOfDoor": 5,
+        "color": "white",
+        "vehicleType": "Sport Car",
+        "createdAt": "2022-01-22"
+      },
+      "address": {
+        "id": 312,
+        "country": "Romania",
+        "city": "Bucharest",
+        "postalCode": "0023",
+        "addressInfo": "via fsfd"
+      },
+      "images": [
+        {
+          "id": 98,
+          "value": "./assets/img/porsche.png",
+          "createdAt": "2022-01-12"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "description": "New car",
+      "pricePerDay": 20,
+      "currencyType": "$",
+      "phoneNumber": "234534",
+      "email": "test@gmail.com",
+      "createdAt": "2022-01-12",
+      "vehicleInfo": {
+        "id": 332,
+        "brand": "Bentley",
+        "model": "A3",
+        "roadTraveler": "234.342",
+        "typeOfRoadTravelled": "KM",
+        "combustibleType": "DIESEL",
+        "fabricationYear": 2019,
+        "fabricationCountry": "America",
+        "numberOfDoor": 5,
+        "color": "white",
+        "vehicleType": "SUV",
+        "createdAt": "2022-01-22"
+      },
+      "address": {
+        "id": 313,
+        "country": "Romania",
+        "city": "Bucharest",
+        "postalCode": "0023",
+        "addressInfo": "via fsfd"
+      },
+      "images": [
+        {
+          "id": 98,
+          "value": "./assets/img/rolls.png",
+          "createdAt": "2022-01-12"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "description": "New car",
+      "pricePerDay": 20,
+      "currencyType": "$",
+      "phoneNumber": "234534",
+      "email": "test@gmail.com",
+      "createdAt": "2022-01-12",
+      "vehicleInfo": {
+        "id": 339,
+        "brand": "Porsche",
+        "model": "Macan",
+        "roadTraveler": "234.342",
+        "typeOfRoadTravelled": "KM",
+        "combustibleType": "DIESEL",
+        "fabricationYear": 2019,
+        "fabricationCountry": "America",
+        "numberOfDoor": 5,
+        "color": "white",
+        "vehicleType": "SUV",
+        "createdAt": "2022-01-22"
+      },
+      "address": {
+        "id": 3211,
+        "country": "Romania",
+        "city": "Bucharest",
+        "postalCode": "0023",
+        "addressInfo": "via fsfd"
+      },
+      "images": [
+        {
+          "id": 100,
+          "value": "./assets/img/porsche-macan.png",
+          "createdAt": "2022-01-12"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "description": "New car",
+      "pricePerDay": 20,
+      "currencyType": "$",
+      "phoneNumber": "234534",
+      "email": "test@gmail.com",
+      "createdAt": "2022-01-12",
+      "vehicleInfo": {
+        "id": 339,
+        "brand": "Porsche",
+        "model": "Macan",
+        "roadTraveler": "234.342",
+        "typeOfRoadTravelled": "KM",
+        "combustibleType": "DIESEL",
+        "fabricationYear": 2019,
+        "fabricationCountry": "America",
+        "numberOfDoor": 5,
+        "color": "white",
+        "vehicleType": "SUV",
+        "createdAt": "2022-01-22"
+      },
+      "address": {
+        "id": 3211,
+        "country": "Romania",
+        "city": "Bucharest",
+        "postalCode": "0023",
+        "addressInfo": "via fsfd"
+      },
+      "images": [
+        {
+          "id": 100,
+          "value": "./assets/img/golf.png",
+          "createdAt": "2022-01-12"
+        }
+      ]
+    }
+  ],
+  "brands": ["Bmw", "Audi", "Mercedes", "Renault", "Ford", "Volkswagen", "Kia"],
+  "models": ["320", "A4", "Gle", "Megane", "Mustang", "Golf", "Swagen"],
+  "years": ["2013", "2009", "2004", "2022", "2019", "2020"],
+  "maxDistance": {"distance": "270.000"}
+}
